@@ -22,3 +22,13 @@ footer ul li {
   float: left;
   margin-left: 15px;
 }
+
+footer a{
+  color: #777;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+    color: #777;
+  }
+}
